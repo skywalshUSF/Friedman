@@ -1,9 +1,10 @@
 Package: Friedman
-Title: What the Package Does (One Line, Title Case)
+Title: Base R Visualization Package
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Skylar", "Walsh", , "Skylar.Walsh@usf.edu", role = c("aut", "cre"))
+Description: basicrplots, provides a simple set of functions for generating common 
+statistical visualizations (scatterplot, histogram, boxplot) using only Base R graphics functions.
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
